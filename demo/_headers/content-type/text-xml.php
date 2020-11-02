@@ -1,5 +1,5 @@
 <?
-header("Content-type: text/xml");
+//header("Content-type: text/xml");
 ?>
 <html>
 <head>
